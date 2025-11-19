@@ -8,6 +8,9 @@ This project includes:
 - Visualizations
 - Statistical comparison
 
+  Summary
+This repository contains my submission for the Data Science assessment. The goal was to explore relationships between trader behaviour and the Bitcoin Fear & Greed Index, produce daily aggregates, visualise findings, and run statistical comparisons.
+
 ### Folder Structure
 ds_SHAIKH_AMAAN/
 │── notebook_1.ipynb
@@ -19,4 +22,5 @@ ds_SHAIKH_AMAAN/
 │   └── merged_daily_sentiment.csv
 │
 └── outputs/
+
     └── netpnl_with_sentiment.png
